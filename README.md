@@ -13,7 +13,7 @@ This repository contains the analysis conducted for the STOR 496 course at UNC-C
 1. Ensure you have R installed on your system.
 2. Install the required R packages such as `install.packages("survival")`.
 3. Run the scripts in the file to reproduce the analysis
-##### *Note that this will require access to the original data or your own data set which most will not possess
+#### *Note that this will require access to the original data or your own data set which most will not possess
 
 ## Acknowledgements
 Special thanks to Dr. Daughters and Dr. Olvera-Cravioto, for their invaluable guidance throughout the course of this project.
