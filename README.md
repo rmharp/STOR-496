@@ -1,5 +1,5 @@
 # STOR 496 Final Project
-###An Analysis of Distress Tolerance as a Predictor of Early Treatment Dropout in a Residential Substance Abuse Treatment Facility
+#### An Analysis of Distress Tolerance as a Predictor of Early Treatment Dropout in a Residential Substance Abuse Treatment Facility
 
 ## Overview
 This repository contains the analysis conducted for the STOR 496 course at UNC-Chapel Hill. The project focuses on examining distress tolerance as a predictor of early treatment dropout in a residential substance abuse treatment facility, extending upon the methodologies employed in the original study by Daughters et al. (2005).
@@ -13,7 +13,7 @@ This repository contains the analysis conducted for the STOR 496 course at UNC-C
 1. Ensure you have R installed on your system.
 2. Install the required R packages such as `install.packages("survival")`.
 3. Run the scripts in the file to reproduce the analysis
-###*Note that this will require access to the original data or your own data set which most will not possess
+### *Note that this will require access to the original data or your own data set which most will not possess
 
 ## Acknowledgements
 Special thanks to Dr. Daughters and Dr. Olvera-Cravioto, for their invaluable guidance throughout the course of this project.
